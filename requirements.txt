@@ -1,4 +1,4 @@
-django==2.2.0
+django==5.2.17
 requests==2.19.0
 pyyaml==5.3
 jinja2==2.10
