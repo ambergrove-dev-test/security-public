@@ -1,2 +1,2 @@
 # security-public
-Synthetic, deliberately vulnerable.
+Direct push that bypassed the ruleset.
